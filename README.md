@@ -11,3 +11,5 @@ __Ефремова__
 #### Заголовок 3
 
 _ПИ332Б_
+
+![шпиц](https://github.com/user-attachments/assets/6aad7d3c-7441-46e2-a8f3-55e85ab706f3)
